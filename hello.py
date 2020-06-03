@@ -1,6 +1,6 @@
-var=
+#var=
 
 def main():
-    return 1
+    return 2
 
 print(main())
