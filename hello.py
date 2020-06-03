@@ -1,3 +1,5 @@
+#var=
+
 def main():
     return 1
 
